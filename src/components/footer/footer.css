@@ -1,0 +1,34 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}
+.footer-logo{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    
+}
+.footer-logo p{
+    font-size: 46px;
+    font-weight: 700;
+    color: #383838;
+}
+.footer-links{
+    list-style: none;
+    display: flex;
+    color: #252525;
+    gap: 50px;
+    font-size: 20px;
+}
+.footer-links li{
+    cursor: pointer;
+}
+.footer-social-icon{
+    display: flex;
+    gap: 20px;
+    margin-bottom: 50px;
+    cursor: pointer;
+}
