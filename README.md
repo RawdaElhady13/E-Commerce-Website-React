@@ -1,4 +1,4 @@
-in this project :-
+In this project[E-commerce website] :-
 
 create the Home page where we will display the trending products, offer banner, newsletter subscription form, then make product page for men's category, women's category and kids category. 
 
